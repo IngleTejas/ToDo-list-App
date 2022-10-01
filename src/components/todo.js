@@ -30,7 +30,7 @@ const Todo = () => {
         <div className="child-div">
           <figure>
             <img src={todo} alt="todologo" />
-            <figcaption>Add your list here</figcaption>
+            <figcaption>Add List Here</figcaption>
           </figure>
           <div className="addItems">
             <input
